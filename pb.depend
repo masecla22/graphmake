@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537354873 source:c:\work\pb\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	"drawings.h"
+
+1537354888 c:\work\pb\drawings.h
+	<iostream>
+	<cmath>
+	<windows.h>
+	<graphics.h>
+
